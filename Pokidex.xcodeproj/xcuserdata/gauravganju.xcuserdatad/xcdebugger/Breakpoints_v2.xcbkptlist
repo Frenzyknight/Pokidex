@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D88F10FB-FFCA-472A-9630-6EBCD764307F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8530CC88-4495-43E6-AD09-8A603621F6A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokidex/View/PokemonDetailedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "8530CC88-4495-43E6-AD09-8A603621F6A4 - 9fbd54262e474bf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pokidex.PokemonDetailedView.init(imglink: Swift.String, name: Swift.String) -&gt; Pokidex.PokemonDetailedView"
+                  moduleName = "Pokidex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gauravganju/Developer/Pokidex/Pokidex/Pokidex/View/PokemonDetailedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "8530CC88-4495-43E6-AD09-8A603621F6A4 - ae82f675459c5b18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pokidex.PokemonDetailedView.init() -&gt; Pokidex.PokemonDetailedView"
+                  moduleName = "Pokidex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gauravganju/Developer/Pokidex/Pokidex/Pokidex/View/PokemonDetailedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
